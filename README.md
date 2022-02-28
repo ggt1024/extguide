@@ -35,4 +35,4 @@ Firefox 商店
 https://addons.mozilla.org/zh-CN/firefox/addon/jwksext-best-for-movie-fans/
 
 Safari 商店
-(已提交审核中，期望的用户可插个眼，关注关键字「伽马影迷插件」)
+https://apps.apple.com/cn/app/apple-store/id1611761892
