@@ -24,6 +24,8 @@ https://www.bilibili.com/video/av936784112
 - win7/win8/win10/win11 Edge/Chrome/Firefox 和其他基于 Chrome内核的国产浏览器
 - macOS Intel 和 M1 芯片的 Safari
 
+
+
 插件官网
 https://ggt1024.com/#/productJwksExt
 
@@ -36,3 +38,5 @@ https://addons.mozilla.org/zh-CN/firefox/addon/jwksext-best-for-movie-fans/
 
 Safari 商店
 https://apps.apple.com/cn/app/apple-store/id1611761892
+
+**注意：macOS 系统需要升级到最新版本，Safari 才能支持插件。**
