@@ -39,4 +39,4 @@ https://addons.mozilla.org/zh-CN/firefox/addon/jwksext-best-for-movie-fans/
 Safari 商店
 https://apps.apple.com/cn/app/apple-store/id1611761892
 
-**注意：macOS 系统需要升级到最新版本，Safari 才能支持插件。**
+**注意：macOS 系统需要升级到 >= Big Sur 11.x 版本，Safari 才能支持插件。**
