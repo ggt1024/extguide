@@ -21,9 +21,14 @@ https://www.bilibili.com/video/av936784112
 ## 免费体验插件
 
 支持全平台和所有现代桌面浏览器
-- win7/win8/win10/win11 Edge/Chrome/Firefox 和其他基于 Chrome内核的国产浏览器
-- macOS Intel 和 M1 芯片的 Safari
 
+| 系统 | 系统版本 | 浏览器 | 兼容性 |
+| ------- | --- | -------------- | -------------- |
+| Windows | 7/8/10/11 | Chrome/Edge/Firefox/国产包皮 | :white_check_mark: |
+| macOS | >11.x.x | Safari | :white_check_mark: |
+| macOS | >10.x.x | Chrome/Edge/Firefox | :white_check_mark: |
+| macOS | <11.x.x | Safari | :x: |
+| Windows | XP | Chrome/IE/Firefox/国产包皮 | :x: |
 
 
 插件官网
